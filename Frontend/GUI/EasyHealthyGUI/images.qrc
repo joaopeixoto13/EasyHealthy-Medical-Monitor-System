@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/agenda.png</file>
+        <file>Images/assistencia-medica.png</file>
+        <file>Images/batimento-cardiaco.png</file>
+        <file>Images/exportar.png</file>
+        <file>Images/flash-drive.png</file>
+        <file>Images/oxygen.png</file>
+        <file>Images/pessoa.png</file>
+        <file>Images/temperatura.png</file>
+        <file>Images/analise-de-dados.png</file>
+        <file>Images/vacina.png</file>
+        <file>Images/finger-info.png</file>
+        <file>Images/temp-info.png</file>
+        <file>Images/back.png</file>
+        <file>Images/white.png</file>
+        <file>Images/logo.png</file>
+        <file>Images/mechanical-gears-.png</file>
+        <file>Images/return.png</file>
+    </qresource>
+</RCC>
